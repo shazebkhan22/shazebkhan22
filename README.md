@@ -3,7 +3,6 @@
 Full-Stack Developer focused on building scalable SaaS applications using MERN + Next.js.  
 Currently building a Turf Booking platform with real-world admin, user, and role-based workflows.
 
----
 
 ## 🚀 What I'm Working On
 
@@ -14,7 +13,6 @@ Currently building a Turf Booking platform with real-world admin, user, and role
 - Dashboard analytics & management system
 - Built with Next.js App Router, MongoDB, Redux Toolkit, React Query
 
----
 
 ## 🛠 Tech Stack
 
@@ -41,14 +39,12 @@ Currently building a Turf Booking platform with real-world admin, user, and role
 - GitHub Actions (CI/CD)
 - Postman
 
----
 
 ## 📚 Currently Learning
 - System Design
 - Advanced DSA
 - Scalable SaaS architecture
 
----
 
 ## 🌐 Links
 - Portfolio: [https://shazeb-portfolio.vercel.app/]
