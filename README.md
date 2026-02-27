@@ -4,7 +4,7 @@ Full-Stack Developer focused on building scalable SaaS applications using MERN +
 Currently building a Turf Booking platform with real-world admin, user, and role-based workflows.
 
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 ### FootInn — Turf Booking SaaS
 - Multi-role system (User, Turf Admin, Super Admin)
@@ -14,7 +14,7 @@ Currently building a Turf Booking platform with real-world admin, user, and role
 - Built with Next.js App Router, MongoDB, Redux Toolkit, React Query
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -40,13 +40,13 @@ Currently building a Turf Booking platform with real-world admin, user, and role
 - Postman
 
 
-## 📚 Currently Learning
+## Currently Learning
 - System Design
 - Advanced DSA
 - Scalable SaaS architecture
 
 
-## 🌐 Links
-- Portfolio: [https://shazeb-portfolio.vercel.app/]
-- LinkedIn: [https://www.linkedin.com/in/shazebkhann/]
+## Links
+- Portfolio: https://shazeb-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/shazebkhann/
 - Email: kshazeb22sep@gmail.com
