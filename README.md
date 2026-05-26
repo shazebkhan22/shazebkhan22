@@ -24,26 +24,40 @@ Currently building a Turf Booking platform with real-world admin, user, and role
 - React Query
 - Tailwind CSS
 - Framer Motion
+- Shadcn/ui
 
 ### Backend
 - Node.js
 - Express.js
+- Fastify REST APIs
+- Websockets
+- Zod
+- Prisma ORM
 - MongoDB
-- Mongoose
+- Redis
 - JWT Authentication
 - REST APIs
 
 ### Tools & Infra
 - Vercel
-- Docker (learning)
+- Docker
+- Nginx
 - GitHub Actions (CI/CD)
 - Postman
+- Puppeteer
 
 
 ## Currently Learning
 - System Design
 - Advanced DSA
 - Scalable SaaS architecture
+
+## AI
+- OpenAI API
+- Gemini API
+- RAG Basics
+- LangChain
+- Vector Databases
 
 
 ## Links
