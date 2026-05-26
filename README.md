@@ -46,18 +46,20 @@ Currently building a Turf Booking platform with real-world admin, user, and role
 - Postman
 - Puppeteer
 
+### AI
+- OpenAI API
+- Gemini API
+- RAG Basics
+- LangChain
+- Vector Databases
+
+
 
 ## Currently Learning
 - System Design
 - Advanced DSA
 - Scalable SaaS architecture
 
-## AI
-- OpenAI API
-- Gemini API
-- RAG Basics
-- LangChain
-- Vector Databases
 
 
 ## Links
