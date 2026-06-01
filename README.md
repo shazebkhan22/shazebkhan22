@@ -49,7 +49,7 @@ Currently building a Turf Booking platform with real-world admin, user, and role
 ### AI
 - OpenAI API
 - Gemini API
-- RAG Basics
+- RAG
 - LangChain
 - Vector Databases
 
