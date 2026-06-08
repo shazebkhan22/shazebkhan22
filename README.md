@@ -1,7 +1,7 @@
 # Shazeb Khan
 
-Full-Stack Developer focused on building scalable SaaS applications using MERN + Next.js.  
-Currently building a Turf Booking platform with real-world admin, user, and role-based workflows.
+Full-Stack Developer specializing in scalable SaaS applications, modern web architectures, and AI-powered solutions using React, Next.js, Node.js, and TypeScript.
+Currently building a production-grade Turf Booking platform with role-based access control, booking workflows, analytics, and payment-ready architecture.
 
 
 ## What I'm Working On
@@ -37,6 +37,8 @@ Currently building a Turf Booking platform with real-world admin, user, and role
 - Redis
 - JWT Authentication
 - REST APIs
+- WebSockets
+- BullMQ
 
 ### Tools & Infra
 - Vercel
@@ -49,8 +51,11 @@ Currently building a Turf Booking platform with real-world admin, user, and role
 ### AI
 - OpenAI API
 - Gemini API
-- RAG
+- Claude API
+- RAG Pipelines
+- MCP
 - LangChain
+- LangGraph
 - Vector Databases
 
 
