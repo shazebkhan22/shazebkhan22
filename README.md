@@ -39,6 +39,7 @@ Currently building a production-grade Turf Booking platform with role-based acce
 - REST APIs
 - WebSockets
 - BullMQ
+- FastAPI
 
 ### Tools & Infra
 - Vercel
@@ -56,7 +57,9 @@ Currently building a production-grade Turf Booking platform with role-based acce
 - MCP
 - LangChain
 - LangGraph
-- Vector Databases
+- Groq LLM
+- Pinecone
+- ChromaDB
 
 
 
