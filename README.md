@@ -50,8 +50,6 @@ Currently building a production-grade Turf Booking platform with role-based acce
 - Puppeteer
 
 ### AI
-- OpenAI API
-- Gemini API
 - Claude API
 - RAG Pipelines
 - MCP
